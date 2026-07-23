@@ -5,133 +5,192 @@
 
 ## 🚀 About Me
 
-🎓 Computer Science Engineering Student passionate about **Software Development, Artificial Intelligence, Machine Learning, and Full Stack Development**.
+🎓 Computer Science Engineering Student passionate about technology, software development, and problem-solving.
 
-💡 I love building real-world applications using modern technologies and continuously improving my problem-solving skills.
+💻 I am interested in building scalable applications and exploring modern technologies across:
 
-🌱 Currently learning:
-- 🤖 Generative AI & Agentic AI
-- 🧠 Machine Learning & Deep Learning
-- 🌐 Full Stack Development
-- ⚡ Data Structures & Algorithms
-- ☁️ Cloud & DevOps Technologies
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & Large Language Models
+- 🌐 Full Stack Web Development
+- 🔐 Cyber Security
+- ⚙️ Backend Engineering
+- ☁️ Cloud Computing & DevOps
 
-🎯 Career Goal:
-To become a skilled Software Engineer and contribute to innovative products at leading technology companies.
+🌱 Currently learning and improving my skills in:
+- Data Structures & Algorithms
+- System Design
+- AI Engineering
+- Secure Application Development
+- Modern Web Technologies
+
+🎯 My goal is to become a skilled Software Engineer and contribute to innovative technology solutions.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white)
+## 👨‍💻 Programming Languages
 
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-### 🤖 AI / ML Technologies
+---
+
+# 🌐 Web Development
+
+## Frontend Technologies
+
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+
+## Backend Technologies
+
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
+![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+
+---
+
+# 🤖 Artificial Intelligence & Machine Learning
+
+### Technologies
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)
+![LLM](https://img.shields.io/badge/Large_Language_Models-green?style=for-the-badge)
+
+### Frameworks & Libraries
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+---
+
+# 🔐 Cyber Security
+
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-black?style=for-the-badge&logo=hackthebox)
+
+Knowledge Areas:
+
+- 🔒 Authentication & Authorization
+- 🔑 JWT Based Security
+- 🌐 Web Application Security
+- 🛡️ Network Security Fundamentals
+- 🔍 Vulnerability Analysis
+- 🔐 Secure Coding Practices
+- ⚡ Ethical Hacking Fundamentals
+
+---
+
+# 🗄️ Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+
+Knowledge:
+
+- SQL Database Management
+- NoSQL Databases
+- Data Modeling
+- Database Optimization
+- Caching Concepts
+
+---
+
+# ☁️ DevOps & System Technologies
+
+![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+
+Knowledge:
+
+- Linux Administration
+- Server Management
+- Deployment Basics
+- Reverse Proxy Concepts
+- Containerization Basics
+- CI/CD Fundamentals
+
+---
+
+# 🖥️ Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+
+- Windows 10/11
+- Ubuntu Linux
+- Linux Command Line
+- System Fundamentals
+
+---
+
+# 🧰 Developer Tools
+
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+
+Tools:
+
+- Visual Studio Code
+- Git & GitHub
+- npm
+- Postman
+- Linux Terminal
 
 ---
 
-# 🚀 Featured Projects
+# 📚 Current Learning Focus
 
-## 🤖 AI Resume Analyzer
-**Tech Stack:** Python, NLP, Machine Learning, Generative AI
-
-- An AI-powered system that analyzes resumes.
-- Provides skill analysis and improvement suggestions.
-- Uses AI techniques to improve recruitment efficiency.
-
----
-
-## 🧠 RAG PDF Question Answering System
-
-**Tech Stack:** LangChain, LangGraph, Vector Database, LLM
-
-- Built a Retrieval Augmented Generation application.
-- Allows users to ask questions from uploaded PDF documents.
-- Uses LLMs for intelligent responses.
-
----
-
-## 🩺 External Skin Infection Detection using AI
-
-**Tech Stack:** Python, TensorFlow, CNN, Generative AI
-
-- AI-based image analysis system.
-- Detects possible skin conditions from images.
-- Provides helpful information using AI models.
+🚀 Advanced Data Structures & Algorithms  
+🤖 Generative AI & AI Agents  
+🔎 Retrieval Augmented Generation (RAG)  
+🔐 Cyber Security Practices  
+⚡ Backend Architecture  
+☁️ Cloud & DevOps Technologies  
+🏗️ System Design  
 
 ---
 
 # 📊 GitHub Statistics
 
-![Deekshith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vdeekshith2007&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vdeekshith2007&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vdeekshith2007&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 Achievements & Learning
-
-⭐ Solving Data Structures & Algorithms problems  
-⭐ Exploring Generative AI and LLM applications  
-⭐ Building practical software projects  
-⭐ Learning System Design and Cloud Technologies  
-
----
-
 # 🌐 Connect With Me
 
-<p align="left">
+🐙 GitHub:
+https://github.com/vdeekshith2007
 
-<a href="https://github.com/vdeekshith2007">
-<img src="https://img.shields.io/badge/GitHub-vdeekshith2007-black?style=for-the-badge&logo=github">
-</a>
+💼 LinkedIn:
+vataparthi deekshith
 
-<a href="https://www.linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-Deekshith%20Vataparthi-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-</p>
-
-📧 Email: vataparthideekshith18@gmail.com
+📧 Email:
+vataparthideekshith18@gmail.com
 
 ---
 
-# 💬 Quote
+# 💡 Quote
 
-> "The best way to predict the future is to create it."
+> "Learning today, building tomorrow."
 
----
-
-⭐ **Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
-<!--
-**vdeekshith2007/vdeekshith2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ Thanks for visiting my profile!
