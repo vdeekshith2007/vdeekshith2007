@@ -1,13 +1,29 @@
-## Hi there 👋
 # 👋 Hi, I'm Deekshith Vataparthi
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="profile-photo.png" width="180" height="180" style="border-radius:50%;" alt="Deekshith Vataparthi"/>
+</p>
 
-## 🚀 About Me
+<h3 align="center">
+Computer Science Student | Software Developer | AI & Cyber Security Enthusiast
+</h3>
 
-🎓 Computer Science Engineering Student passionate about technology, software development, and problem-solving.
+<p align="center">
+  <a href="https://github.com/vdeekshith2007">
+    <img src="https://img.shields.io/badge/GitHub-vdeekshith2007-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-Deekshith%20Vataparthi-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
 
-💻 I am interested in building scalable applications and exploring modern technologies across:
+---
+
+# 🚀 About Me
+
+🎓 I am a Computer Science Engineering student passionate about software development and emerging technologies.
+
+💻 My areas of interest include:
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Generative AI & Large Language Models
@@ -16,181 +32,181 @@
 - ⚙️ Backend Engineering
 - ☁️ Cloud Computing & DevOps
 
-🌱 Currently learning and improving my skills in:
-- Data Structures & Algorithms
-- System Design
-- AI Engineering
-- Secure Application Development
-- Modern Web Technologies
+I enjoy learning new technologies, solving programming problems, and building solutions that combine innovation with practical applications.
 
-🎯 My goal is to become a skilled Software Engineer and contribute to innovative technology solutions.
+🎯 My goal is to become a skilled Software Engineer and contribute to impactful technology products.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Skills
 
 ## 👨‍💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
+<img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+</p>
 
 ---
 
-# 🌐 Web Development
+# 🌐 Full Stack Development
 
-## Frontend Technologies
+### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+- HTML5
+- CSS3
+- JavaScript
+- React.js
 
-## Backend Technologies
+### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-![NPM](https://img.shields.io/badge/NPM-red?style=for-the-badge&logo=npm)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+- Node.js
+- Express.js
+- REST APIs
+- JWT Authentication
+- npm
+- Nginx
 
 ---
 
 # 🤖 Artificial Intelligence & Machine Learning
 
-### Technologies
+### AI Technologies
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-red?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-black?style=for-the-badge)
-![LLM](https://img.shields.io/badge/Large_Language_Models-green?style=for-the-badge)
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Prompt Engineering
+- AI Agents
 
 ### Frameworks & Libraries
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-orange?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge)
+- TensorFlow
+- PyTorch
+- Scikit-Learn
+- Pandas
+- NumPy
+- LangChain
+- LangGraph
+- LangSmith
 
 ---
 
 # 🔐 Cyber Security
 
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-black?style=for-the-badge&logo=hackthebox)
+Interested in building secure applications and understanding security principles.
 
-Knowledge Areas:
+### Security Knowledge:
 
-- 🔒 Authentication & Authorization
-- 🔑 JWT Based Security
-- 🌐 Web Application Security
-- 🛡️ Network Security Fundamentals
-- 🔍 Vulnerability Analysis
-- 🔐 Secure Coding Practices
-- ⚡ Ethical Hacking Fundamentals
+- Authentication & Authorization
+- JWT Security
+- Web Application Security
+- Network Security Fundamentals
+- Secure Coding Practices
+- Vulnerability Analysis
+- Ethical Hacking Fundamentals
 
 ---
 
-# 🗄️ Databases
+# 🗄️ Database Technologies
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+- MongoDB
+- MySQL
+- PostgreSQL
+- Redis
 
-Knowledge:
+### Database Concepts:
 
-- SQL Database Management
-- NoSQL Databases
+- SQL Queries
 - Data Modeling
-- Database Optimization
-- Caching Concepts
+- Database Design
+- Indexing
+- Caching
+- NoSQL Architecture
 
 ---
 
 # ☁️ DevOps & System Technologies
 
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+### Operating Systems
 
-Knowledge:
+- Windows 10/11
+- Linux
+- Ubuntu
 
-- Linux Administration
-- Server Management
-- Deployment Basics
-- Reverse Proxy Concepts
-- Containerization Basics
+### DevOps Tools
+
+- Git
+- GitHub
+- Docker
+- Nginx
+- Linux Terminal
 - CI/CD Fundamentals
 
 ---
 
-# 🖥️ Operating Systems
+# 🧰 Development Environment
 
-![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
-- Windows 10/11
-- Ubuntu Linux
-- Linux Command Line
-- System Fundamentals
-
----
-
-# 🧰 Developer Tools
-
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-
-Tools:
+Tools I use:
 
 - Visual Studio Code
 - Git & GitHub
-- npm
 - Postman
-- Linux Terminal
+- npm
+- Linux Command Line
+- Windows Development Environment
 
 ---
 
-# 📚 Current Learning Focus
+# 📚 Currently Learning
 
 🚀 Advanced Data Structures & Algorithms  
-🤖 Generative AI & AI Agents  
+🤖 Generative AI Applications  
 🔎 Retrieval Augmented Generation (RAG)  
-🔐 Cyber Security Practices  
-⚡ Backend Architecture  
-☁️ Cloud & DevOps Technologies  
-🏗️ System Design  
+🔐 Cyber Security Engineering  
+⚡ Backend System Design  
+☁️ Cloud & DevOps  
+🏗️ Software Architecture  
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vdeekshith2007&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vdeekshith2007&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=vdeekshith2007&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdeekshith2007&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌱 My Vision
 
-🐙 GitHub:
+To continuously learn, create, and contribute to technology by developing reliable, secure, and intelligent software solutions.
+
+---
+
+# 📫 Connect With Me
+
+🐙 GitHub  
 https://github.com/vdeekshith2007
 
-💼 LinkedIn:
+💼 LinkedIn  
 vataparthi deekshith
 
-📧 Email:
+📧 Email  
 vataparthideekshith18@gmail.com
 
 ---
 
-# 💡 Quote
+# 💡 Developer Quote
 
-> "Learning today, building tomorrow."
+> "Code. Learn. Build. Innovate."
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my GitHub profile!
