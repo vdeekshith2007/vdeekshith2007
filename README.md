@@ -181,7 +181,7 @@ Tools:
 https://github.com/vdeekshith2007
 
 💼 LinkedIn:
-vataparthi deekshith
+https://www.linkedin.com/in/deekshith-vataparthi/
 
 📧 Email:
 vataparthideekshith18@gmail.com
